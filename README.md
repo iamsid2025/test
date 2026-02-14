@@ -13,7 +13,7 @@ This repository is used to:
 
 ## 🚀 Getting Started
 
-These instructions will help you get a copy of the project up and running locally for testing purposes.
+These instructions 
 
 ### Prerequisites
 
